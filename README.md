@@ -53,11 +53,13 @@ The model used was a Decision Tree Regression Model.
 
 #### LinearRegressions Coefficients
 ![](lin_reg_coefficients.png)
+>The top 3 largest coefficients were all outlet types- supermarket type 1, type 3, and grocery stores.
+>These had the most impact on the model predictions. Type 3 and Type 1 had a positive correlation with outlet sales, while grocery stores had a negative correlation wit outlet sales.
 
 #### RandomForest Importances
 ![](rf_importances.png)
-
-
+>This graph shows the top 5 feature importances in my Random Forest Model.
+>The graph tells us that the model used Item_Weight, Outlet_Type_Supermarket_Type3, Item_Visibility, Outlet_Type_Grocery_Store, and Item_MRP more than any other columns in the dataset. 
 
 ## Recommendations:
 
