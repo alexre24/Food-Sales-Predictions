@@ -51,6 +51,14 @@ The model used was a Decision Tree Regression Model.
 
 >This model performed relatively well, with an R2 score of 0.603 for the train data and 0.594 for the test data. Because the R2 values are close together, the model has a low variance. 
 
+#### LinearRegressions Coefficients
+![](.png)
+
+#### RandomForest Importances
+![](.png)
+
+
+
 ## Recommendations:
 
 Based on the exploratory data, I reccommend that more resources should be allocated towards Type 3 Supermarkets, as they provide the most amount of value out of all store types. I would also reccommend that more effort should be put into advertising soft drinks and baking goods, in order to increase sales. These were some of the lowest selling items. 
