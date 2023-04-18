@@ -52,10 +52,10 @@ The model used was a Decision Tree Regression Model.
 >This model performed relatively well, with an R2 score of 0.603 for the train data and 0.594 for the test data. Because the R2 values are close together, the model has a low variance. 
 
 #### LinearRegressions Coefficients
-![lin_reg_coefficients](.png)
+![](Food-Sales-Predictions/blob/main/lin_reg_coefficients.png)
 
 #### RandomForest Importances
-![Food-Sales-Predictions/blob/main/rf_importances](.png)
+![](Food-Sales-Predictions/blob/main/rf_importances.png)
 
 
 
