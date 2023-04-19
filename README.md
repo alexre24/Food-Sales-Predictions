@@ -63,12 +63,12 @@ The model used was a Decision Tree Regression Model.
 
 
 #### SHAP Importances
-![](shap_importance.png)
+![](shap_importances.png)
 >The most important features according to SHAP and the feature importances graph are very similar, but there are some differences. Item visibility was labeled as less important by SHAP, and Item_Weight was not in SHAP's top 5 importances.
 
 
 #### Dot Graph
-![](dot_importance.png)
+![](dot_importances.png)
  >For the feature Item_MRP, there were a wide range of high and low values that had an impact on the model. Rows that were Supermarket Type 3 had a higher impact on the model than rows that were not. This is contrary to grocery stores, where those that were not grocery stores had a higher impact on the model than those that were not.
 
 ## Recommendations:
