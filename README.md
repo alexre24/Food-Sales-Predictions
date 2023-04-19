@@ -61,6 +61,16 @@ The model used was a Decision Tree Regression Model.
 >This graph shows the top 5 feature importances in my Random Forest Model.
 >The graph tells us that the model used Item_Weight, Outlet_Type_Supermarket_Type3, Item_Visibility, Outlet_Type_Grocery_Store, and Item_MRP more than any other columns in the dataset. 
 
+
+#### SHAP Importances
+![](shap_importance.png)
+>The most important features according to SHAP and the feature importances graph are very similar, but there are some differences. Item visibility was labeled as less important by SHAP, and Item_Weight was not in SHAP's top 5 importances.
+
+
+#### Dot Graph
+![](dot_importance.png)
+ >For the feature Item_MRP, there were a wide range of high and low values that had an impact on the model. Rows that were Supermarket Type 3 had a higher impact on the model than rows that were not. This is contrary to grocery stores, where those that were not grocery stores had a higher impact on the model than those that were not.
+
 ## Recommendations:
 
 Based on the exploratory data, I reccommend that more resources should be allocated towards Type 3 Supermarkets, as they provide the most amount of value out of all store types. I would also reccommend that more effort should be put into advertising soft drinks and baking goods, in order to increase sales. These were some of the lowest selling items. 
