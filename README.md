@@ -72,7 +72,7 @@ The model used was a Decision Tree Regression Model.
  >For the feature Item_MRP, there were a wide range of high and low values that had an impact on the model. Rows that were Supermarket Type 3 had a higher impact on the model than rows that were not. This is contrary to grocery stores, where those that were not grocery stores had a higher impact on the model than those that were not.
  
  ### Local Explanations
- - I am going to use an item with high visibility and an item with low visibility as examples for the plots below. This is because item visibility was one of the most important features, but the SHAP plot showed low SHAP values for many of the data points.
+ -I am going to use an item with high visibility and an item with low visibility as examples for the plots below. This is because item visibility was one of the most important features, but the SHAP plot showed low SHAP values for many of the data points.
  
  #### High Visibility Force Plot
 ![](high_visibility_force.png)
