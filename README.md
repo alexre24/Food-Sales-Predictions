@@ -70,6 +70,25 @@ The model used was a Decision Tree Regression Model.
 #### Dot Graph
 ![](dot_importances.png)
  >For the feature Item_MRP, there were a wide range of high and low values that had an impact on the model. Rows that were Supermarket Type 3 had a higher impact on the model than rows that were not. This is contrary to grocery stores, where those that were not grocery stores had a higher impact on the model than those that were not.
+ 
+ 
+ #### High Visibility Force Plot
+![](high_visibility_force.png)
+ >For this row, item visibility has a positive impact on the prediction, while being a grocery store and being established in 1985 have a negative impact on the prediction.
+ 
+ #### High Visibility Lime Plot
+![](high_visibility_lime.png)
+ >The fact that this row was a grocery store and not a supermarket type 3 had the highest impact. The item MRP had a positive impact.
+ 
+ 
+ #### Low Visibility Force Plot
+![](low_visibility_force.png)
+ >For this row, a low visibility, an MRP of 159.5, and a weight of 6.965 have a positive impact on the prediction, while not being a supermarket type 3 has a negative impact on the prediction.
+ 
+ 
+ #### Low Visibility Lime Plot
+![](low_visibility_lime.png)
+ >The fact that this row is not a grocery store or supermarket type 3 have the largest impact. The third largest impact was the item MRP, which had a positive impact.
 
 ## Recommendations:
 
