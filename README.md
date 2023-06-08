@@ -14,6 +14,8 @@ https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii
 
 ## To prepare this data, the data was cleaned, and the following processes were performed:
 
+### Tableu Dashboard Link
+https://public.tableau.com/app/profile/alexander.re7304/viz/ItemOutletSalesDashboard/ItemOutletSalesDashboard?publish=yes
 
 ### Explanatory Data Analysis
 #### - A histogram was used to determine the distribution of Item Outlet Sales.
