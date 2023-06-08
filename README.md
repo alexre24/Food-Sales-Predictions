@@ -11,11 +11,12 @@ How do variables such as Item Type, Visibility, Outlet Type, and Outlet Size imp
 ### Data Source: 
 https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
+### Tableu Dashboard Link
+https://public.tableau.com/app/profile/alexander.re7304/viz/ItemOutletSalesDashboard/ItemOutletSalesDashboard?publish=yes
+
 
 ## To prepare this data, the data was cleaned, and the following processes were performed:
 
-### Tableu Dashboard Link
-https://public.tableau.com/app/profile/alexander.re7304/viz/ItemOutletSalesDashboard/ItemOutletSalesDashboard?publish=yes
 
 ### Explanatory Data Analysis
 #### - A histogram was used to determine the distribution of Item Outlet Sales.
